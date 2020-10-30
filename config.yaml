@@ -1,4 +1,4 @@
-baseURL: skaivalya.github.io
+baseURL: https://skaivalya.github.io
 languageCode: en-us
 defaultContentLanguage: en
 title: Kaivalya
@@ -14,8 +14,8 @@ imaging:
   quality: 99
 
 params:
-  description: ----
-  homeMetaContent: ----
+  description: Testing
+  homeMetaContent: Testing
   dateFormat: Jan 2, 2006
   katex: true
   darkThemeAsDefault: true
