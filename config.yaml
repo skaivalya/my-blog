@@ -3,6 +3,7 @@ languageCode: en-us
 defaultContentLanguage: en
 title: Kaivalya
 theme: cupper-hugo-theme
+publishDir: public
 
 taxonomies:
   tag: tags
